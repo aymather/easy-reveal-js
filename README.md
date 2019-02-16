@@ -4,10 +4,10 @@
 
 # Setup
 
-Include this cdn in the `<head>` of your html: `<script src="https://unpkg.com/scrollreveal"></script>`
-Include this at the bottom of your `<body>` to connect to the easy-scroll-reveal.js file: `<script src='easy-scroll-reveal.js'></script>`
+- Include this cdn in the `<head>` of your html: `<script src="https://unpkg.com/scrollreveal"></script>`
+- Include this at the bottom of your `<body>` to connect to the easy-scroll-reveal.js file: `<script src='easy-scroll-reveal.js'></script>`
 
-_Important! Make sure that if your 'easy-scroll-reveal.js' file is located in a folder, that you specify the path to that folder in your script tag. Example: `<script src='/path/to/my/js/stuff/easy-scroll-reveal.js'></script>`_
+- _Important! Make sure that if your 'easy-scroll-reveal.js' file is located in a folder, that you specify the path to that folder in your script tag. Example: `<script src='/path/to/my/js/stuff/easy-scroll-reveal.js'></script>`_
 
 **And that's it!**
 
