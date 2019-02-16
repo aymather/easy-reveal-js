@@ -19,10 +19,10 @@ Now simply apply class names to give scroll reveal effect. The schema is as foll
 
 The only inputs that will change will be DIRECTION or DELAY. In other words...
 
-`<div class='slide-bottom-3'></div>` will slide up from the bottom after 3 seconds
-`<div class='slide-top'></div>` will slide down from the top without any delay
-`<div class='slide-left-1'></div>` will slide from the left after 1 second
-`<div class='slide-right-9'></div>` will slide from the right after 9 seconds
+- `<div class='slide-bottom-3'></div>` will slide up from the bottom after 3 seconds
+- `<div class='slide-top'></div>` will slide down from the top without any delay
+- `<div class='slide-left-1'></div>` will slide from the left after 1 second
+- `<div class='slide-right-9'></div>` will slide from the right after 9 seconds
 
 # More customization
 
